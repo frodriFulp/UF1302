@@ -1,55 +1,34 @@
 # UF1302
 Exámenes sobre esta unidad.
 
-## EPA1
+## EPA2
 
-Esta práctica consiste en desarrollar un página web.
-
+Esta práctica consiste en desarrollar un página web. Para la realización de esta prueba no tendrán que buscar ni las imágenes ni playlist ni música, será todo aportado por el docente, en la carpeta de la prueba en el Drive (UF1302, EPA2).
 
 Instrucciones:
+ 1. Leer atentamente y con atención todas las indicaciones.
+ 2. Utiliza la página básica (código html5) de inicio utilizada en los ejercicios de clase.
+ 3. El nombre de la pestaña de la página tiene que mostrar: EPA 2
+ 4. La página web a realizar será el contenido de un disco de música:
 
+       a) En la cabecera de la web tiene que aparecer el nombre del grupo o cantante.
 
-1. Leer atentamente y con atención todas las indicaciones.
+       b) Insertar la imagen aportada como subcabecera justo debajo del punto anterior. Deberá ocupar todo el ancho del documento y mantener la proporción, que no se distorsiones la imagen. Crear un mapa de imagen donde las figuras dibujadas deben enlazar con: el cuadrado con la imagen de la portada del disco, el circulo con la lista de tracks y el rectángulo largo, con la web oficial del grupo o solista, al ser una maqueta los enlaces puede estar vacío (#), pero debe quedar claro a donde van esos enlaces, recordar atributos y opciones que ayuden a esto.
+       
+       c) Separar la cabecera de la imagen de la tabla con 300 px, con atributos y no con CSS.
+       
+       d) En la tabla la primera fila solo debe aparecer la imagen de la portada del disco.
+       
+       e) Encima de la imagen debe aparecer el título del disco con el nombre del grupo o cantante. No debe ser un H1.
+       
+       f) Debajo de la imagen debe aparecer los 12 temas del disco.
 
-2. Utiliza la página básica  (código html) de inicio utilizada en los ejercicios de clase.
+            a) Tiene que aparecer el N.º de track, el nombre de la canción, si hay colaboración el nombre de quien colabora y la duración de la pista en el formato 00:00 (mm:ss) mm = minutos, ss = segundos
 
-3. El nombre de la pestaña de la página tiene que mostrar: **EPA 1**
-
-4. El tema de la web será: “Los Planetas” y debe contener:
-
-    - Encabezado o Banner (imagen que ocupa todo el ancho de la web) con un alto no superior a 100px.
-
-    - Un título y subtítulo en la página.
-
-    - Incluir en primer párrafo una breve descripción, no más de 250 caracteres.
-
-    - Mostrar al menos 5 imágenes ( 5 planetas) organizados en la página de tal forma que tres de ellos estén en la primera fila y los otros dos en una fila inferior.
-
-    - Segundo párrafo descriptivo en el que:
-
-        -Contenga un enlace o hipervínculo hacia otra página web que se debe abrir en otra pestaña o ventana.
-
-        - El párrafo debe estar en cursiva.
-
-        - El párrafo tendrá la fuente “tahoma”.
-
-
-    - Crea una lista ordenada con los planetas de nuestro sistema solar y en cada planeta incluir una sublista sin orden que incluya los satélites de cada uno de ellos. El título de la lista será: Nuestros planetas.
-
-    - Una tabla que contenga:
-
-    - Un título que ponga “Características:”, sea la primera fila y la cabecera.
-
-    - En cada fila debe aparecer el nombre de uno de los planetas (al poner el ratón encima debe enseñar el siguiente texto: ‘Tamaños y números de lunas’).
-
-    - El borde de toda la tabla debe ser a 8.
-
-    - El color de las letras de la primera fila de encabezados o títulos de las columnas debe ser color azul suave (deepskyblue).
-
-    - El color de fondo de la tabla debe ser color gris (grey).
-
-    - Imagen Qr como fin de pie del documento.
-
-
+            b) Al lado de esta información tiene que aparecer una preview del tema.
+            
+            c) Para organizar esta información se recomienda altamente, usar una tabla.
+        
+       g) Debajo de la lista debe aparecer el video del tema presentación del disco con los controles para poder darle al play o mover el tiempo a la posición que quiera.
+    
 5. Cuidar el diseño de la página y la estructura de los códigos teniendo en cuenta las indicaciones dadas durante la clase. Puedes hacer uso de los comentarios para ayudarte a organizar el código.
-
